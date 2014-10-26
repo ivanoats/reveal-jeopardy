@@ -1,3 +1,7 @@
+## This version of the Reveal.JS repo has been modified to include a blank Jeopardy&#174; style template
+Use the back button after each slide to go back to the main board.
+Clone/Fork this repo and then modify each question and answer
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
